@@ -13,7 +13,7 @@
       margin-bottom: 5px;
     }
     .header-description{
-      font-size: 1.2rem;
+      font-size: 1rem;
       font-weight: 400;
 
       a{
@@ -62,7 +62,32 @@
     }
   }
 
-  /* Post Page*/
+  /* Go Home Button */
+  .return-home{
+    margin-bottom: 30px;
+    position: relative;
+
+    a{
+      margin-left: -5px;
+      padding: 5px;
+
+      .home-door{
+        display: inline-block;
+        font-size: 1.4rem;
+      }
+      .home-word{
+        color: black;
+        display: inline-block;
+        font-size: 1rem;
+        margin-left: 3px;
+      }
+    }
+    p{
+      display: none;
+    }
+  }
+
+  /* Post Page */
   .post-box{
     width: 100%;
     max-width: 750px;
@@ -85,6 +110,7 @@
       .post-container{
 
         img{
+          max-height: 500px;
           max-width: 500px;
           margin-bottom: 30px;
         }
@@ -100,30 +126,51 @@
         }
       }
     }
-  }
+    .PageNavigation{
+      display: block;
+      margin-top: 50px;
+      position: relative;
+      width: 100%;
 
-  .return-home{
-    position: fixed;
-    left: 20px;
-    top: 20px;
-
-    a{
-      margin-left: -5px;
-      padding: 5px;
-
-      .home-door{
+      a{
         display: inline-block;
-        font-size: 1.2rem;
-      }
-      .home-word{
         color: black;
-        display: none;
-        font-size: 1rem;
-        margin-left: 3px;
+        position: absolute;
+
+        &.prev{
+          left: 0;
+          span{
+            -webkit-transform: rotate(180deg);
+            -moz-transform: rotate(180deg);
+            -ms-transform: rotate(180deg);
+            transform: rotate(180deg);
+          }
+        }
+
+        &.next{
+          right: 0;
+        }
+
+        span{
+          display: inline-block;
+          font-size: 1.8rem;
+          line-height: 1.8rem;
+          vertical-align: top;
+        }
+
+        p{
+          display: inline-block;
+          margin: 0 5px;
+          font-size: 1rem;
+          line-height: 1.6rem;
+          vertical-align: top;
+        }
+
+        &:hover{
+          color: blue;
+        }
       }
-    }
-    p{
-      display: none;
     }
   }
+
 }

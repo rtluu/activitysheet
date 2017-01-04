@@ -110,7 +110,8 @@ pre {
   width: 90%;
   margin: 50px auto 100px auto;
   /* HomePage */
-  /* Post Page*/ }
+  /* Go Home Button */
+  /* Post Page */ }
   .main-container .site-header {
     display: block;
     margin: 0 auto 50px auto; }
@@ -120,7 +121,7 @@ pre {
       letter-spacing: 1;
       margin-bottom: 5px; }
     .main-container .site-header .header-description {
-      font-size: 1.2rem;
+      font-size: 1rem;
       font-weight: 400; }
       .main-container .site-header .header-description a:hover {
         text-decoration: underline; }
@@ -146,6 +147,22 @@ pre {
         display: block;
         font-size: 0.9rem;
         font-style: italic; }
+  .main-container .return-home {
+    margin-bottom: 30px;
+    position: relative; }
+    .main-container .return-home a {
+      margin-left: -5px;
+      padding: 5px; }
+      .main-container .return-home a .home-door {
+        display: inline-block;
+        font-size: 1.4rem; }
+      .main-container .return-home a .home-word {
+        color: black;
+        display: inline-block;
+        font-size: 1rem;
+        margin-left: 3px; }
+    .main-container .return-home p {
+      display: none; }
   .main-container .post-box {
     width: 100%;
     max-width: 750px; }
@@ -157,6 +174,7 @@ pre {
       .main-container .post-box .post-header .post-meta {
         font-size: 0.8rem; }
     .main-container .post-box .post-content .post-container img {
+      max-height: 500px;
       max-width: 500px;
       margin-bottom: 30px; }
     .main-container .post-box .post-content .post-container p.text {
@@ -164,23 +182,37 @@ pre {
       margin-bottom: 20px; }
       .main-container .post-box .post-content .post-container p.text a:hover {
         text-decoration: underline; }
-  .main-container .return-home {
-    position: fixed;
-    left: 20px;
-    top: 20px; }
-    .main-container .return-home a {
-      margin-left: -5px;
-      padding: 5px; }
-      .main-container .return-home a .home-door {
+    .main-container .post-box .PageNavigation {
+      display: block;
+      margin-top: 50px;
+      position: relative;
+      width: 100%; }
+      .main-container .post-box .PageNavigation a {
         display: inline-block;
-        font-size: 1.2rem; }
-      .main-container .return-home a .home-word {
         color: black;
-        display: none;
-        font-size: 1rem;
-        margin-left: 3px; }
-    .main-container .return-home p {
-      display: none; }
+        position: absolute; }
+        .main-container .post-box .PageNavigation a.prev {
+          left: 0; }
+          .main-container .post-box .PageNavigation a.prev span {
+            -webkit-transform: rotate(180deg);
+            -moz-transform: rotate(180deg);
+            -ms-transform: rotate(180deg);
+            transform: rotate(180deg); }
+        .main-container .post-box .PageNavigation a.next {
+          right: 0; }
+        .main-container .post-box .PageNavigation a span {
+          display: inline-block;
+          font-size: 1.8rem;
+          line-height: 1.8rem;
+          vertical-align: top; }
+        .main-container .post-box .PageNavigation a p {
+          display: inline-block;
+          margin: 0 5px;
+          font-size: 1rem;
+          line-height: 1.6rem;
+          vertical-align: top; }
+        .main-container .post-box .PageNavigation a:hover {
+          color: blue; }
 
 /**
  * Syntax highlighting styles
