@@ -176,7 +176,8 @@ pre {
     .main-container .post-box .post-content .post-container img {
       max-height: 500px;
       max-width: 500px;
-      margin: 10px 0 30px 0; }
+      margin: 10px 0 30px 0;
+      width: 100%; }
     .main-container .post-box .post-content .post-container div.divider {
       background: #DDDDDD;
       display: block;
