@@ -5,8 +5,8 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Jan 2017 01:13:29 -0500</pubDate>
-    <lastBuildDate>Wed, 04 Jan 2017 01:13:29 -0500</lastBuildDate>
+    <pubDate>Wed, 04 Jan 2017 01:29:40 -0500</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2017 01:29:40 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -38,7 +38,7 @@
     &lt;p class=&quot;text&quot;&gt;While working with Osebo on Stash today, we decided to dig into the true problem that we're attempting to solve with Stash. It started with a question. &lt;b&gt;Why do people collect things?&lt;/b&gt;&lt;/p&gt;
     &lt;p class=&quot;text quote&quot;&gt;&quot;Collecting is a basic human instinct; a survival advantage amplified by eons of natural selection. Those of our ancient ancestors who managed to accumulate scarce objects may have been more prone to survive long enough to bear offspring.&quot; &lt;a class=&quot;source&quot; href=&quot;https://www.ha.com/intelligent-collector/why-do-we-collect-things.s?article=collect&quot;&gt;(source)&lt;/a&gt;&lt;/p&gt;
     &lt;img src=&quot;http://imgur.com/2Xid92T.jpg&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;If you think about it, everyone collect something. Baseball cards, money, pictures, letters from loved ones, sneakers... something. Our motivations to collect stem from a few common reasons including:&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;If you think about it, everyone collects something. Baseball cards, money, pictures, letters from loved ones, sneakers... something. Our motivations to collect stem from a few common reasons including:&lt;/p&gt;
     &lt;ul&gt;
       &lt;li&gt;Knowledge and learning&lt;/li&gt;
       &lt;li&gt;Relaxation and stress reduction&lt;/li&gt;
@@ -52,8 +52,8 @@
     &lt;/ul&gt;
     &lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
     &lt;p class=&quot;text&quot;&gt;So how does this apply to Stash? We feel like collecting content on the web is &lt;b&gt;difficult&lt;/b&gt;, &lt;b&gt;unappealing&lt;/b&gt;, and &lt;b&gt;hidden&lt;/b&gt; from others who can find value in it.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Right now, to collect webpages, images, videos, etc., people either share links on chat platforms where they get lost in conversation, they create bookmarks that get cluttered, or they have to create their own websites that are tedious to build/maintain.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Our goal is to make it easire for people to create, share, and discover collections.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;Right now, to collect webpages, images, videos, etc., people either: share links on chat platforms where they get lost in conversation, create bookmark folders that often get forgotten/cluttered, or build websites for their collection, which take a significant amount of time and effort to create/maintain.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;Our goal is to make it easier for people to create, share, and discover collections of their favorite media.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 02 Jan 2017 00:00:00 -0500</pubDate>

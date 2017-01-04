@@ -153,6 +153,8 @@ pre {
     .main-container .return-home a {
       margin-left: -5px;
       padding: 5px; }
+      .main-container .return-home a:hover .home-word {
+        color: blue; }
       .main-container .return-home a .home-door {
         display: inline-block;
         font-size: 1.4rem; }
@@ -172,9 +174,9 @@ pre {
         font-size: 1.8rem;
         margin-bottom: 4px; }
       .main-container .post-box .post-header .post-meta {
-        font-size: 0.8rem; }
+        font-size: 0.9rem;
+        font-style: italic; }
     .main-container .post-box .post-content .post-container img {
-      max-height: 500px;
       max-width: 500px;
       margin: 10px 0 30px 0;
       width: 100%; }
