@@ -1,37 +1,129 @@
 .main-container{
-  padding: 30px;
+  width: 90%;
+  margin: 50px auto 100px auto;
 
   .site-header{
     display: block;
-    margin: 0 auto 30px auto;
+    margin: 0 auto 50px auto;
 
     .header-title{
       font-size: 2rem;
       font-weight: 500;
+      letter-spacing: 1;
       margin-bottom: 5px;
     }
     .header-description{
-      font-size: 1rem;
-      font-weight: 300px;
-      font-style: italic;
+      font-size: 1.2rem;
+      font-weight: 400;
+
+      a{
+        &:hover{
+          text-decoration: underline;
+        }
+      }
     }
   }
   /* HomePage */
   .home-box{
     display: block;
-    margin: 0 auto;
+    max-width: 600px;
 
-    .post-list{
-      li{
+    ul.post-list{
+      li.post-intro{
+        margin-bottom: 50px;
+
+        img{
+          max-height: 500px;
+        }
+
         img[src="/activitysheet/post-images/"] {
            display: none;
+        }
+        h2{
+          margin-top: 10px;
+          margin-bottom: 6px;
+
+          a.post-link{
+            color: black;
+            font-size: 1.5rem;
+            text-decoration: underline;
+
+            &:hover{
+              color: blue;
+            }
+          }
+        }
+        .post-time{
+          display: block;
+          font-size: 0.9rem;
+          font-style: italic;
         }
       }
     }
   }
 
   /* Post Page*/
-  .post{
+  .post-box{
+    width: 100%;
+    max-width: 750px;
 
+    .post-header{
+      margin-bottom: 30px;
+
+      .post-title{
+        font-size: 1.8rem;
+        margin-bottom: 4px;
+      }
+
+      .post-meta{
+        font-size: 0.8rem;
+      }
+
+    }
+    .post-content{
+
+      .post-container{
+
+        img{
+          max-width: 500px;
+          margin-bottom: 30px;
+        }
+
+        p.text{
+          font-size: 1.2rem;
+          margin-bottom: 20px;
+          a{
+            &:hover{
+              text-decoration: underline;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .return-home{
+    position: fixed;
+    left: 20px;
+    top: 20px;
+
+    a{
+      margin-left: -5px;
+      padding: 5px;
+
+      .home-door{
+        display: inline-block;
+        font-size: 1.2rem;
+      }
+      .home-word{
+        color: black;
+        display: none;
+        font-size: 1rem;
+        margin-left: 3px;
+      }
+    }
+    p{
+      display: none;
+    }
   }
 }

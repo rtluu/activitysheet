@@ -107,24 +107,79 @@ pre {
     padding-left: 0; }
 
 .main-container {
-  padding: 30px;
+  width: 90%;
+  margin: 50px auto 100px auto;
   /* HomePage */
   /* Post Page*/ }
   .main-container .site-header {
     display: block;
-    margin: 0 auto 30px auto; }
+    margin: 0 auto 50px auto; }
     .main-container .site-header .header-title {
       font-size: 2rem;
       font-weight: 500;
+      letter-spacing: 1;
       margin-bottom: 5px; }
     .main-container .site-header .header-description {
-      font-size: 1rem;
-      font-weight: 300px;
-      font-style: italic; }
+      font-size: 1.2rem;
+      font-weight: 400; }
+      .main-container .site-header .header-description a:hover {
+        text-decoration: underline; }
   .main-container .home-box {
     display: block;
-    margin: 0 auto; }
-    .main-container .home-box .post-list li img[src="/post-images/"] {
+    max-width: 600px; }
+    .main-container .home-box ul.post-list li.post-intro {
+      margin-bottom: 50px; }
+      .main-container .home-box ul.post-list li.post-intro img {
+        max-height: 500px; }
+      .main-container .home-box ul.post-list li.post-intro img[src="/activitysheet/post-images/"] {
+        display: none; }
+      .main-container .home-box ul.post-list li.post-intro h2 {
+        margin-top: 10px;
+        margin-bottom: 6px; }
+        .main-container .home-box ul.post-list li.post-intro h2 a.post-link {
+          color: black;
+          font-size: 1.5rem;
+          text-decoration: underline; }
+          .main-container .home-box ul.post-list li.post-intro h2 a.post-link:hover {
+            color: blue; }
+      .main-container .home-box ul.post-list li.post-intro .post-time {
+        display: block;
+        font-size: 0.9rem;
+        font-style: italic; }
+  .main-container .post-box {
+    width: 100%;
+    max-width: 750px; }
+    .main-container .post-box .post-header {
+      margin-bottom: 30px; }
+      .main-container .post-box .post-header .post-title {
+        font-size: 1.8rem;
+        margin-bottom: 4px; }
+      .main-container .post-box .post-header .post-meta {
+        font-size: 0.8rem; }
+    .main-container .post-box .post-content .post-container img {
+      max-width: 500px;
+      margin-bottom: 30px; }
+    .main-container .post-box .post-content .post-container p.text {
+      font-size: 1.2rem;
+      margin-bottom: 20px; }
+      .main-container .post-box .post-content .post-container p.text a:hover {
+        text-decoration: underline; }
+  .main-container .return-home {
+    position: fixed;
+    left: 20px;
+    top: 20px; }
+    .main-container .return-home a {
+      margin-left: -5px;
+      padding: 5px; }
+      .main-container .return-home a .home-door {
+        display: inline-block;
+        font-size: 1.2rem; }
+      .main-container .return-home a .home-word {
+        color: black;
+        display: none;
+        font-size: 1rem;
+        margin-left: 3px; }
+    .main-container .return-home p {
       display: none; }
 
 /**
