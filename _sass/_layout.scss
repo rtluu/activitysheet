@@ -1,0 +1,37 @@
+.main-container{
+  padding: 30px;
+
+  .site-header{
+    display: block;
+    margin: 0 auto 30px auto;
+
+    .header-title{
+      font-size: 2rem;
+      font-weight: 500;
+      margin-bottom: 5px;
+    }
+    .header-description{
+      font-size: 1rem;
+      font-weight: 300px;
+      font-style: italic;
+    }
+  }
+  /* HomePage */
+  .home-box{
+    display: block;
+    margin: 0 auto;
+
+    .post-list{
+      li{
+        img[src="/post-images/"] {
+           display: none;
+        }
+      }
+    }
+  }
+
+  /* Post Page*/
+  .post{
+
+  }
+}
