@@ -139,7 +139,7 @@ pre {
         margin-bottom: 6px; }
         .main-container .home-box ul.post-list li.post-intro h2 a.post-link {
           color: black;
-          font-size: 1.5rem;
+          font-size: 1.4rem;
           text-decoration: underline; }
           .main-container .home-box ul.post-list li.post-intro h2 a.post-link:hover {
             color: blue; }
@@ -176,12 +176,33 @@ pre {
     .main-container .post-box .post-content .post-container img {
       max-height: 500px;
       max-width: 500px;
-      margin-bottom: 30px; }
+      margin: 10px 0 30px 0; }
+    .main-container .post-box .post-content .post-container div.divider {
+      background: #DDDDDD;
+      display: block;
+      height: 1px;
+      margin: 30px 0 30px 0;
+      width: 100%; }
     .main-container .post-box .post-content .post-container p.text {
       font-size: 1.2rem;
       margin-bottom: 20px; }
+      .main-container .post-box .post-content .post-container p.text.quote {
+        color: #7a7a7a;
+        font-size: 1.1rem;
+        font-style: italic;
+        margin-left: 15px;
+        padding-left: 15px; }
+      .main-container .post-box .post-content .post-container p.text a.source {
+        font-size: 0.9rem; }
       .main-container .post-box .post-content .post-container p.text a:hover {
         text-decoration: underline; }
+    .main-container .post-box .post-content .post-container ul {
+      margin: -10px 0 20px 20px !important; }
+      .main-container .post-box .post-content .post-container ul li {
+        font-size: 1.1rem;
+        margin-left: 15px;
+        margin-bottom: 3px;
+        list-style-type: circle; }
     .main-container .post-box .PageNavigation {
       display: block;
       margin-top: 50px;

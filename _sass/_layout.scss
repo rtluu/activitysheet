@@ -45,7 +45,7 @@
 
           a.post-link{
             color: black;
-            font-size: 1.5rem;
+            font-size: 1.4rem;
             text-decoration: underline;
 
             &:hover{
@@ -112,16 +112,43 @@
         img{
           max-height: 500px;
           max-width: 500px;
-          margin-bottom: 30px;
+          margin: 10px 0 30px 0;
         }
-
+        div.divider{
+          background: #DDDDDD;
+          display: block;
+          height: 1px;
+          margin: 30px 0 30px 0;
+          width: 100%;
+        }
         p.text{
           font-size: 1.2rem;
           margin-bottom: 20px;
+
+          &.quote{
+            color: #7a7a7a;
+            font-size: 1.1rem;
+            font-style: italic;
+            margin-left: 15px;
+            padding-left: 15px;
+          }
+
           a{
+            &.source{
+              font-size: 0.9rem;
+            }
             &:hover{
               text-decoration: underline;
             }
+          }
+        }
+        ul{
+          margin: -10px 0 20px 20px !important;
+          li{
+            font-size: 1.1rem;
+            margin-left: 15px;
+            margin-bottom: 3px;
+            list-style-type: circle;
           }
         }
       }
