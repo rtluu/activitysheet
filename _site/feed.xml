@@ -5,9 +5,33 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Jan 2017 01:29:40 -0500</pubDate>
-    <lastBuildDate>Wed, 04 Jan 2017 01:29:40 -0500</lastBuildDate>
+    <pubDate>Wed, 04 Jan 2017 23:45:36 -0500</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2017 23:45:36 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Revamping my personal site</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+    &lt;p class=&quot;text&quot;&gt;My personal site is in need of a face lift, so I spent some time today mocking up a few design interations in sketch&lt;/p&gt;
+    &lt;img src=&quot;http://i.imgur.com/PhfeHAv.png&quot;&gt;
+    &lt;p class=&quot;caption&quot;&gt;homepage_interation_01.png&lt;/p&gt;
+    &lt;img src=&quot;http://i.imgur.com/1R6e7OD.png&quot;&gt;
+    &lt;p class=&quot;caption&quot;&gt;homepage_interation_02.png&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;I think I like the second one better. It's cleaner and allows for a scroll based user flow rather than a click heavy experience. I'll keep interating and posting my progressions.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;Sidenote, I'm back in the hospital with my girlfriend again. I might have to make this place my second office ⍨.&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 04 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/04/Day4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/04/Day4.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Overnight stay in the hospital and building in Jekyll</title>
