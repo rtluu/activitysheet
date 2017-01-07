@@ -5,14 +5,42 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Jan 2017 11:51:52 -0500</pubDate>
-    <lastBuildDate>Fri, 06 Jan 2017 11:51:52 -0500</lastBuildDate>
+    <pubDate>Sat, 07 Jan 2017 00:00:58 -0500</pubDate>
+    <lastBuildDate>Sat, 07 Jan 2017 00:00:58 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Back to the drawing board for my personal site</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+    &lt;img src=&quot;http://i.imgur.com/Dpfprkv.jpg&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;I realized that I got ahead of myself with my first crack at my personal site.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;Osebo suggested that I take more time to think through the purpose of my personal site and to sketch multiple iterations before touching the computer.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;My goals with my personal site are to:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Showcase my web work through individual case studies.&lt;/li&gt;
+      &lt;li&gt;Convey my multi-disciplinary background and experience.&lt;/li&gt;
+      &lt;li&gt;Capture viewers attention and entice them to contact me.&lt;/li&gt;
+      &lt;li&gt;Keep things minimal while adding my own personal flare.&lt;/li&gt;
+      &lt;li&gt;Use a new Javascript library to create a unique interactive.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p class=&quot;text&quot;&gt;I also think I'm going to build my personal site in gulp.js. I've never used it before, but I know it's fast and I've heard good things.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/06/Day6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/06/Day6.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Making music discovery less cloudy with Rainbow</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;Osebo, Sid and I started building an easy way to see what your friends are liking on Soundcloud called Rainbow.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;Osebo, Sid, and I started building an easy way to see what your friends are liking on Soundcloud called Rainbow.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;Over the past 2 weeks we've interviewed a variety of people to understand how they use Soundcloud and if they are interesting in seeing what their friends are listening to. Most if not all said yes, so we are building it.&lt;/p&gt;
     &lt;img src=&quot;http://i.imgur.com/yN8IPg4.gif&quot;/&gt;
     &lt;p class=&quot;caption&quot;&gt;landing_interation_01&lt;/p&gt;
@@ -35,7 +63,7 @@
         <description>&lt;div class=&quot;post-container&quot;&gt;
     &lt;p class=&quot;text&quot;&gt;My personal site is in need of a face lift, so I spent some time today mocking up a few design interations in Sketch.&lt;/p&gt;
     &lt;img src=&quot;http://i.imgur.com/zjQYLCt.png&quot;&gt;
-    &lt;p class=&quot;caption&quot;&gt;personal site wireframe&lt;/p&gt;
+    &lt;p class=&quot;caption&quot;&gt;personal site mockup&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;I want to make it minimal while still conveying my diverse breadth of experience.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;This design seems a little overwhelming. I need to take more time to think out the userflow.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;Sidenote, I'm back in the hospital with my girlfriend again. I might have to make this place my second office ⍨.&lt;/p&gt;
