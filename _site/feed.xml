@@ -5,16 +5,39 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Jan 2017 09:26:43 -0500</pubDate>
-    <lastBuildDate>Sun, 08 Jan 2017 09:26:43 -0500</lastBuildDate>
+    <pubDate>Mon, 09 Jan 2017 00:17:10 -0500</pubDate>
+    <lastBuildDate>Mon, 09 Jan 2017 00:17:10 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Conducting problem interviews for Stash</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+
+    &lt;p class=&quot;text&quot;&gt;Products need to solve problems. Whether it's telling you the time or autonomously driving you to work, products are created to solve a human problem.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;Today, Osebo and I interviewed a bio-med engineering masters student named Mishi.&lt;/p&gt;
+    &lt;img src=&quot;http://i.imgur.com/aRv0Pzb.gif&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;She was super nice and gave us a lot of great insight into her daily experience of discovering and saving online. Her go-to service is/was Tumblr, but it's gotten really cluttered and difficult for her to easily revisit her favorite content.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;The conversation was extremely helpful in identifying where her painpoints lie and how we can shape Stash's experience to solve her problems.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;Talking with Mishi also gave us a better understanding of who our target audience is. I'm not going to draw any conclusions yet, but we're excited to conduct more interviews to see if there are any consistent patterns.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/07/Day.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/07/Day.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Collecting facts on climate change for an interactive infographic</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
     &lt;img src=&quot;http://i.imgur.com/zCgAoLk.jpg&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;One topic that has captured my attention recently is global warming. There is so much controversy surrounding the issue, but there is no denying that the effects of human's massive carbon emissions are causing alarming outcomes.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Even though climate change has been gaining media coverage, people still seem to be unaware of the long term consequences from our current carbon output or don't care enough to make changes in their daily life.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;One topic that has captured my attention recently is global warming. There is so much controversy surrounding the issue, but there is no denying that human carbon emissions are causing alarming outcomes.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;Even though climate change has been gaining media coverage, people still seem to be unaware of the long term consequences from our current carbon output or don't care enough to make changes in their daily lives.&lt;/p&gt;
     &lt;img src=&quot;http://i.imgur.com/9qtGfmN.jpg&quot;/&gt;
     &lt;p class=&quot;text&quot;&gt;I want to do my part to help inform others about the realities of global warming by creating a interactive inforgraphic about climate change.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;I've started collecting research and here are some of the mind-boggling facts that I found:&lt;/p&gt;
@@ -26,9 +49,6 @@
     &lt;/ul&gt;
     &lt;p class=&quot;text&quot;&gt;I don't want my children and grandchildren to never experience snow, or to have to wear medicical masks just to prevent them from inhaling smog. We only have one Earth, lets make changes to keep it habitable for future generations.&lt;/p&gt;
     &lt;img src=&quot;http://i.imgur.com/HYcazGR.gif&quot;/&gt;
-
-
-
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 07 Jan 2017 00:00:00 -0500</pubDate>
