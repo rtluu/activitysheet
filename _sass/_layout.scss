@@ -32,20 +32,21 @@
       li.post-intro{
         margin-bottom: 50px;
 
-        img{
-          max-height: 500px;
-        }
+        a.post-link{
 
-        img[src="/activitysheet/post-images/"] {
-           display: none;
-        }
-        h2{
-          margin-top: 10px;
-          margin-bottom: 6px;
+          img{
+            max-height: 500px;
+          }
 
-          a.post-link{
+          img[src="/activitysheet/post-images/"] {
+             display: none;
+          }
+
+          h2{
             color: black;
             font-size: 1.4rem;
+            margin-top: 10px;
+            margin-bottom: 6px;
             text-decoration: underline;
 
             &:hover{
