@@ -5,17 +5,39 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jan 2017 02:04:48 -0500</pubDate>
-    <lastBuildDate>Tue, 10 Jan 2017 02:04:48 -0500</lastBuildDate>
+    <pubDate>Tue, 10 Jan 2017 23:55:17 -0500</pubDate>
+    <lastBuildDate>Tue, 10 Jan 2017 23:55:17 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>New design for my personal site</title>
+        <title>Learning Gulp and first development for my portfolio</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;I spent time today continuing to refine the purpose and vision for my personal site.&lt;/p&gt;
-    &lt;img src=&quot;/post-images/site_mockup_v2.png&quot;/&gt;
+    &lt;img src=&quot;http://i.imgur.com/VjgtRnB.gif&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;Gulp is a javascript task runner that helps automate tasks like bundling code and minifying images/gifs etc.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;Because my personal site will have a lot of heavy imagery, I decided to use gulp to build my personal site so that it's fast and snappy.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;I like it's plugin/modular infrastructure and the fact that it uses sass by default.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;On another note, the site design continues to change as I show people and get feedback. I'm think I'm goint to adjust my user flow so that there are individual pages for each project.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;It's cool to see how it changes day over day.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 10 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/10/Day.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/10/Day.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Updated design/experience for my personal site</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+    &lt;img src=&quot;http://i.imgur.com/Z30ER69.png&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;I spent time today refining the purpose, vision, and design for my personal site.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;Highlighting my frontend work is a priority, so I've made it easy to access my work from a fixed sidebar on the right.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I'm also going to make the images interactive. When a visitor hovers over one of the design it will showcase a unique engagement like hover to play or chopping a video.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;I'm also going to make the images interactive. When a visitor hovers over one of the designs, it will trigger an accompanying video that will show engagements like hover to play or chopping a video.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;It is definitely a thought provoking process breaking down what's important and I'm excited to see it take shape.&lt;/p&gt;
 &lt;/div&gt;
 </description>
