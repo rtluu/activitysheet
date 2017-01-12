@@ -5,9 +5,33 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jan 2017 23:55:17 -0500</pubDate>
-    <lastBuildDate>Tue, 10 Jan 2017 23:55:17 -0500</lastBuildDate>
+    <pubDate>Wed, 11 Jan 2017 22:22:32 -0500</pubDate>
+    <lastBuildDate>Wed, 11 Jan 2017 22:22:32 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Learning the ins and out of being a Product Manager</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+    &lt;img src=&quot;http://i.imgur.com/deKusJI.png&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;Being a product manager is my true role. I love driving products from concept to reality by connecting business, development, and design.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;But defining my role as a product manager can be difficult at times because every circumstance need something different. I am constantly having to adapt to the needs of the product, market, and teammates while balancing both budget and time.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;So I spent some time today researching more about how other people define the role of a product manager and the techniques they use to optimize their effectiveness.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;I found a lot of stuff, but one that I really like is this diagram.&lt;/p&gt;
+    &lt;img src=&quot;http://i.imgur.com/5KoZemy.png&quot;&gt;
+    &lt;p class=&quot;text&quot;&gt;When thinking about building products, all aspects need to be considered and if one of the circles is unmet, the product is bound to fail.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;I'm excited to learn more and to start applying for roles as a PM.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 11 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/11/Day.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/11/Day.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Learning Gulp and first development for my portfolio</title>
@@ -226,27 +250,6 @@
         <pubDate>Mon, 02 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/02/Day2.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/02/Day2.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>I'm making a daily activity sheet.</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;img src=&quot;http://imgur.com/8FtI3o8.gif&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;To start 2017, my &lt;a href=&quot;http://brendanluu.github.io&quot;&gt;brother&lt;/a&gt;, &lt;a href=&quot;http://osebo.github.io/activitysheet&quot;&gt;Osebo&lt;/a&gt; and I decided to make activity sheets to push ourselves to create new stuff everyday.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I'll use this space to document the things I'm working on, share my ideas and record my journey.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Today I upgraded to a new '15 macbook 🙌🏼 . It's nice to start a new year with fresh hardware that will allow me to continue to improve my programming and design.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;One of the things I'm looking forward to most in 2017 is building &lt;a href=&quot;http://stash.ag&quot;&gt;Stash&lt;/a&gt;. Osebo, Diego and I have been working hard and will be relasing an MVP soon. Off to the races.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/01/Day1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/01/Day1.html</guid>
         
         
         <category>jekyll</category>
