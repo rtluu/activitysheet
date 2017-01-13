@@ -5,9 +5,30 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Jan 2017 17:41:39 -0500</pubDate>
-    <lastBuildDate>Thu, 12 Jan 2017 17:41:39 -0500</lastBuildDate>
+    <pubDate>Fri, 13 Jan 2017 01:29:59 -0500</pubDate>
+    <lastBuildDate>Fri, 13 Jan 2017 01:29:59 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Read more, read more, read more.</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+    &lt;img src=&quot;http://i.imgur.com/MK3pW1I.png&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;Part of the reason I love having an activity sheet is that it holds me accountable to the goals I set.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;One of my goals is to read more and when my friend Andrew recommended these two books to me today, it seemed like a great opportunity to commit.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;I've purchased the first one 'Cracking the PM Interview' as an amazon kindle e-read and I'm going to try and read it on my phone while I'm at the gym.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;I read the first few pages and I can tell that it going to be a good read.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 11 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/11/Day12.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/11/Day12.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>How to become a better Product Manager?</title>
@@ -23,8 +44,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 11 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/11/Day.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/11/Day.html</guid>
+        <link>http://localhost:4000/jekyll/update/2017/01/11/Day11.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/11/Day11.html</guid>
         
         
         <category>jekyll</category>
@@ -45,8 +66,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 10 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/10/Day.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/10/Day.html</guid>
+        <link>http://localhost:4000/jekyll/update/2017/01/10/Day10.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/10/Day10.html</guid>
         
         
         <category>jekyll</category>
@@ -66,8 +87,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 09 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/09/Day.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/09/Day.html</guid>
+        <link>http://localhost:4000/jekyll/update/2017/01/09/Day9.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/09/Day9.html</guid>
         
         
         <category>jekyll</category>
@@ -89,8 +110,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 08 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/08/Day.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/08/Day.html</guid>
+        <link>http://localhost:4000/jekyll/update/2017/01/08/Day8.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/08/Day8.html</guid>
         
         
         <category>jekyll</category>
@@ -119,8 +140,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 07 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/07/Day.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/07/Day.html</guid>
+        <link>http://localhost:4000/jekyll/update/2017/01/07/Day7.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/07/Day7.html</guid>
         
         
         <category>jekyll</category>
@@ -214,42 +235,6 @@
         <pubDate>Tue, 03 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/03/Day3.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/03/Day3.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Researching the psychology of collecting</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;img src=&quot;http://imgur.com/5RiIotI.jpg&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;While working with Osebo on Stash today, we decided to dig into the true problem that we're attempting to solve with Stash. It started with a question. &lt;b&gt;Why do people collect things?&lt;/b&gt;&lt;/p&gt;
-    &lt;p class=&quot;text quote&quot;&gt;&quot;Collecting is a basic human instinct; a survival advantage amplified by eons of natural selection. Those of our ancient ancestors who managed to accumulate scarce objects may have been more prone to survive long enough to bear offspring.&quot; &lt;a class=&quot;source&quot; href=&quot;https://www.ha.com/intelligent-collector/why-do-we-collect-things.s?article=collect&quot;&gt;(source)&lt;/a&gt;&lt;/p&gt;
-    &lt;img src=&quot;http://imgur.com/2Xid92T.jpg&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;If you think about it, everyone collects something. Baseball cards, money, pictures, letters from loved ones, sneakers... something. Our motivations to collect stem from a few common reasons including:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Knowledge and learning&lt;/li&gt;
-      &lt;li&gt;Relaxation and stress reduction&lt;/li&gt;
-      &lt;li&gt;Personal pleasure&lt;/li&gt;
-      &lt;li&gt;Social interaction with fellow collectors and others&lt;/li&gt;
-      &lt;li&gt;Competitive challenge&lt;/li&gt;
-      &lt;li&gt;Recognition by fellow collectors and perhaps even non-collectors&lt;/li&gt;
-      &lt;li&gt;The desire to control, possess and bring order to part of the world&lt;/li&gt;
-      &lt;li&gt;Nostalgia and/or a connection to history&lt;/li&gt;
-      &lt;li&gt;Accumulation and diversification of wealth &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-    &lt;p class=&quot;text&quot;&gt;So how does this apply to Stash? We feel like collecting content on the web is &lt;b&gt;difficult&lt;/b&gt;, &lt;b&gt;unappealing&lt;/b&gt;, and &lt;b&gt;hidden&lt;/b&gt; from others who can find value in it.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Right now, to collect webpages, images, videos, etc., people either: share links on chat platforms where they get lost in conversation, create bookmark folders that often get forgotten/cluttered, or build websites for their collection, which take a significant amount of time and effort to create/maintain.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Our goal is to make it easier for people to create, share, and discover collections of their favorite media.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 02 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/02/Day2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/02/Day2.html</guid>
         
         
         <category>jekyll</category>
