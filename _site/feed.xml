@@ -5,9 +5,32 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jan 2017 01:29:59 -0500</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2017 01:29:59 -0500</lastBuildDate>
+    <pubDate>Sun, 15 Jan 2017 00:11:17 -0500</pubDate>
+    <lastBuildDate>Sun, 15 Jan 2017 00:11:17 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Dancing at Visarts</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+    &lt;img src=&quot;http://i.imgur.com/CKCY4HR.jpg&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;Tonight was memorable. Kristina coordinated her company's holiday party and it was a blast.&lt;/p&gt;
+    &lt;img src=&quot;http://i.imgur.com/g6C1TDb.jpg&quot;/&gt;
+    &lt;img src=&quot;http://i.imgur.com/71MpCMJ.jpg&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;I'm very proud of her!&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;It was nice to be a guest at an event for once.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;p.s. I did get the my personal site working in gulp as well 😁.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 14 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/14/Day14.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/14/Day14.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Read more, read more, read more.</title>
@@ -19,9 +42,9 @@
     &lt;p class=&quot;text&quot;&gt;I read the first few pages and I can tell that it going to be a good read.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 11 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/11/Day12.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/11/Day12.html</guid>
+        <pubDate>Thu, 12 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/12/Day12.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/12/Day12.html</guid>
         
         
         <category>jekyll</category>
@@ -213,28 +236,6 @@
         <pubDate>Wed, 04 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/04/Day4.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/04/Day4.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Overnight stay in the hospital and building in Jekyll</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;img src=&quot;http://imgur.com/cXuMjn6.gif&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;I didn't get any sleep last night. I was with my gf in the hospital overnight and it was pretty brutal.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Luckily, I brought my hotspot/laptop and while we were waiting I decided to rebuild my activity sheet in Jekyll per suggestion of Osebo.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Creating posts are sooo much easier and it improves the load efficiency significantly.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;We were having trouble getting the images in the yaml frontmatter to render on the homepage, but I was able to figure it out. It makes the homepage way more appealing.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I'm going to continue to push myself to experiment with new programming languages this year. Some of the ones I'm currently interested in are Angular, Gulp and React. I'll keep buildings new things and will post them here.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 03 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/03/Day3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/03/Day3.html</guid>
         
         
         <category>jekyll</category>
