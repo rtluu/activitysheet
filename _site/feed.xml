@@ -5,9 +5,30 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Jan 2017 00:11:17 -0500</pubDate>
-    <lastBuildDate>Sun, 15 Jan 2017 00:11:17 -0500</lastBuildDate>
+    <pubDate>Mon, 16 Jan 2017 00:31:33 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2017 00:31:33 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>New client with a livestreaming player</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+    &lt;img src=&quot;http://i.imgur.com/KHZkc2q.png&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;I got a new client today; a company called 4DWW. They do live web broadcasts and web meetings.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;My job is to build them a webpage that has a live streaming video player embedded inside of it via JW player.
+    &lt;p class=&quot;text&quot;&gt;In order to do so I need to link up an Amazon EC2 server with a software called Wowza that will stream the video to a JW embed.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;It's an interesting challenge and I need to do some more due diligence to figure out the best approach.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 15 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/15/Day15.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/15/Day15.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Dancing at Visarts</title>
@@ -214,28 +235,6 @@
         <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/05/Day5.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/05/Day5.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Revamping my personal site</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;My personal site is in need of a face lift, so I spent some time today mocking up a few design interations in Sketch.&lt;/p&gt;
-    &lt;img src=&quot;http://i.imgur.com/zjQYLCt.png&quot;&gt;
-    &lt;p class=&quot;caption&quot;&gt;personal site mockup&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I want to make it minimal while still conveying my diverse breadth of experience.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;This design seems a little overwhelming. I need to take more time to think out the userflow.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Sidenote, I'm back in the hospital with my girlfriend again. I might have to make this place my second office ⍨.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 04 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/04/Day4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/04/Day4.html</guid>
         
         
         <category>jekyll</category>
