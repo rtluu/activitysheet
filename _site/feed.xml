@@ -5,9 +5,47 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Jan 2017 00:31:33 -0500</pubDate>
-    <lastBuildDate>Mon, 16 Jan 2017 00:31:33 -0500</lastBuildDate>
+    <pubDate>Tue, 17 Jan 2017 23:50:42 -0500</pubDate>
+    <lastBuildDate>Tue, 17 Jan 2017 23:50:42 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Revamped my resume and LinkedIn profile</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+    &lt;p class=&quot;text&quot;&gt;I've been reading that book on nailing the PM interview and have been picking up ways to improve my resume. I decided to completely redesign the layout, rewrite the copy and I added a references section.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;I also met with my mentor, Seda, today at BunkerLabs and told her about my ambition to land a job as a Product Manager. She gave me a lot of great advice and told me that in addition to redoing my resume that I needed to update my &lt;a href=&quot;http://linkedin.com/in/ryanluu&quot;&gt;LinkedIn&lt;/a&gt;. So I did.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;I'm ready to start applying for PM positions and have already started writing cover letters. Lets go!&lt;/p&gt;
+    &lt;img src=&quot;http://i.imgur.com/noGifL2.png&quot;/&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 17 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/17/Day17.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/17/Day17.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>My personal site is up!</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+    &lt;img src=&quot;http://i.imgur.com/ha2tIBN.png&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;I put up my new personal site! 🙌🏼 Check it out at &lt;a href=&quot;http://ryanluu.com&quot;&gt;ryanluu.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 16 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/16/Day16.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/16/Day16.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>New client with a livestreaming player</title>
@@ -186,55 +224,6 @@
         <pubDate>Sat, 07 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/07/Day7.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/07/Day7.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Back to the drawing board for my personal site</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;img src=&quot;http://i.imgur.com/Dpfprkv.jpg&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;I realized that I got ahead of myself with my first crack at my personal site.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Osebo suggested that I take more time to think through the purpose of my personal site and to sketch multiple iterations before touching the computer.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;My goals with my personal site are to:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Showcase my web work through individual case studies.&lt;/li&gt;
-      &lt;li&gt;Convey my multi-disciplinary background and experience.&lt;/li&gt;
-      &lt;li&gt;Capture viewers attention and entice them to contact me.&lt;/li&gt;
-      &lt;li&gt;Keep things minimal while adding my own personal flare.&lt;/li&gt;
-      &lt;li&gt;Use a new Javascript library to create a unique interactive.&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p class=&quot;text&quot;&gt;I also think I'm going to build my personal site in gulp.js. I've never used it before, but I know it's fast and I've heard good things.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/06/Day6.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/06/Day6.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Making music discovery less cloudy with Rainbow</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;Osebo, Sid, and I started building an easy way to see what your friends are liking on Soundcloud called Rainbow.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Over the past 2 weeks we've interviewed a variety of people to understand how they use Soundcloud and if they are interesting in seeing what their friends are listening to. Most if not all said yes, so we are building it.&lt;/p&gt;
-    &lt;img src=&quot;http://i.imgur.com/yN8IPg4.gif&quot;/&gt;
-    &lt;p class=&quot;caption&quot;&gt;landing_interation_01&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;This is the first iteration of the landing page that I whipped up today.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/05/Day5.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/05/Day5.html</guid>
         
         
         <category>jekyll</category>
