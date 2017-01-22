@@ -5,9 +5,31 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Jan 2017 23:39:27 -0500</pubDate>
-    <lastBuildDate>Fri, 20 Jan 2017 23:39:27 -0500</lastBuildDate>
+    <pubDate>Sun, 22 Jan 2017 03:02:54 -0500</pubDate>
+    <lastBuildDate>Sun, 22 Jan 2017 03:02:54 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Photos from the Washingtonian Inaugural Party</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+    &lt;p class=&quot;text&quot;&gt;Tonight, I was a photographer at the 2017 Washingtonian Inaugural Party.&lt;/p&gt;
+    &lt;img src=&quot;http://i.imgur.com/ZU27KJY.jpg&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;It was a busy night and my friend David was able to capture a quick timelapse of some guests I took pictures of.&lt;/p&gt;
+    &lt;div class=&quot;s_vid&quot; style=&quot;width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;&quot;&gt;&lt;iframe src=&quot;https://streamable.com/e/x1hji&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling=&quot;no&quot; style=&quot;width: 100%; height: 100%; position: absolute;&quot;&gt;&lt;/iframe&gt;&lt;script async defer src=&quot;https://v.embedcdn.com/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+    &lt;p class=&quot;text&quot;&gt;A cool bonus was getting to try out a 360 degree camera station with Mandi.&lt;/p&gt;
+    &lt;img src=&quot;http://i.imgur.com/XMjGBXT.gif&quot;/&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 21 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/21/Day21.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/21/Day21.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>An alarming transition</title>
@@ -15,7 +37,7 @@
     &lt;p class=&quot;text&quot;&gt;Donald Trump became president today.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;I don't want get too deep into politics, but there is one thing that happened today that is particularly concerning to me.&lt;/p&gt;
     &lt;img src=&quot;http://i.imgur.com/S3qVJ9c.png&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;Our nation is one of the largest contributors to the earths's changing climate and the science is being buried by this new administration.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;Our nation is one of the largest contributors to the earth's changing climate and the science is being buried by this new administration.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;How can we make progress towards solving this global problem if this country's leaders deny the issue exists?&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;The data needs to be distributed to the masses and I'm more motivated than ever to create this interactive infographic about climate change with Osebo. I'm holding myself to it.&lt;/p&gt;
 &lt;/div&gt;
@@ -191,28 +213,6 @@
         <pubDate>Wed, 11 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/11/Day11.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/11/Day11.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Learning Gulp and first development for my portfolio</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;img src=&quot;http://i.imgur.com/VjgtRnB.gif&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;Gulp is a javascript task runner that helps automate tasks like bundling code and minifying images/gifs etc.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Because my personal site will have a lot of heavy imagery, I decided to use gulp to build my personal site so that it's fast and snappy.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I like it's plugin/modular infrastructure and the fact that it uses sass by default.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;On another note, the site design continues to change as I show people and get feedback. I'm think I'm goint to adjust my user flow so that there are individual pages for each project.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;It's cool to see how it changes day over day.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 10 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/10/Day10.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/10/Day10.html</guid>
         
         
         <category>jekyll</category>

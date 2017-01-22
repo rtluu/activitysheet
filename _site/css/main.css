@@ -177,7 +177,10 @@ pre {
         font-style: italic; }
     .main-container .post-box .post-content .post-container img {
       max-width: 500px;
-      margin: 10px 0 30px 0;
+      margin: 30px 0 50px 0;
+      width: 100%; }
+    .main-container .post-box .post-content .post-container .s_vid {
+      margin: 50px 0 50px 0;
       width: 100%; }
     .main-container .post-box .post-content .post-container div.divider {
       background: #DDDDDD;
