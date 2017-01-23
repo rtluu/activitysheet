@@ -158,6 +158,11 @@ pre {
           margin: 10px 0; }
         .main-container .home-box ul.post-list li.post-intro .post-content .post-container .s_vid {
           margin: 10px 0; }
+        .main-container .home-box ul.post-list li.post-intro .post-content .post-container p.caption {
+          color: #7a7a7a;
+          font-size: 0.8rem;
+          font-style: italic;
+          margin-top: -4px; }
   .main-container .return-home {
     margin-bottom: 30px;
     position: relative; }
