@@ -130,22 +130,30 @@ pre {
     max-width: 600px; }
     .main-container .home-box ul.post-list li.post-intro {
       margin-bottom: 50px; }
-      .main-container .home-box ul.post-list li.post-intro a.post-link img {
-        max-height: 500px; }
-      .main-container .home-box ul.post-list li.post-intro a.post-link img[src="/activitysheet/post-images/"] {
-        display: none; }
       .main-container .home-box ul.post-list li.post-intro a.post-link h2 {
         color: black;
-        font-size: 1.4rem;
+        font-size: 1.5rem;
         margin-top: 10px;
-        margin-bottom: 6px;
+        margin-bottom: 0px;
         text-decoration: underline; }
         .main-container .home-box ul.post-list li.post-intro a.post-link h2:hover {
           color: blue; }
+      .main-container .home-box ul.post-list li.post-intro img {
+        max-height: 500px; }
+      .main-container .home-box ul.post-list li.post-intro img[src="/activitysheet/post-images/"] {
+        display: none; }
       .main-container .home-box ul.post-list li.post-intro .post-time {
         display: block;
         font-size: 0.9rem;
-        font-style: italic; }
+        font-style: italic;
+        margin-bottom: 12px; }
+      .main-container .home-box ul.post-list li.post-intro .post-content {
+        border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+        padding-bottom: 42px; }
+        .main-container .home-box ul.post-list li.post-intro .post-content img {
+          margin: 10px 0; }
+        .main-container .home-box ul.post-list li.post-intro .post-content .s_vid {
+          margin: 10px 0; }
   .main-container .return-home {
     margin-bottom: 30px;
     position: relative; }
@@ -177,7 +185,7 @@ pre {
         font-style: italic; }
     .main-container .post-box .post-content .post-container img {
       max-width: 500px;
-      margin: 30px 0 50px 0;
+      margin: 20px 0 40px 0;
       width: 100%; }
     .main-container .post-box .post-content .post-container .s_vid {
       margin: 50px 0 50px 0;

@@ -5,21 +5,23 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Jan 2017 21:35:18 -0500</pubDate>
-    <lastBuildDate>Sun, 22 Jan 2017 21:35:18 -0500</lastBuildDate>
+    <pubDate>Mon, 23 Jan 2017 16:18:24 -0500</pubDate>
+    <lastBuildDate>Mon, 23 Jan 2017 16:18:24 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Reorganizing my activity sheet</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;I want to make it easier for people to view my activity sheet without having to click through each title to view a post.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;So I'm using Jekyll's excerpt mechanism to show each post on the home page. I'm also going to need to restyle the posts a little bit to make a clear visual transition between posts.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I only got a few hours of sleep last night so I'll tackle that tomorrow.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;I want to make it easier for people to view my activity sheet without having to click through titles to see each post.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;So I'm using Jekyll's excerpt mechanism to show each post on the home page. I also restyled the way the posts are presented on the homepage to provide clear separation between each entry.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;I only got a few hours of sleep last night because I had to be up early for a wedding showcase this morning.&lt;/p&gt;
+    &lt;img src=&quot;http://i.imgur.com/dLR6RnX.jpg&quot;/&gt;
+    &lt;p class=&quot;text&quot;&gt;I was in heavy sales mode with our Mirror Booth and helped my photography company get over 100 client sign ups.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 21 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/21/Day22.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/21/Day22.html</guid>
+        <pubDate>Sun, 22 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/22/Day22.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/22/Day22.html</guid>
         
         
         <category>jekyll</category>
