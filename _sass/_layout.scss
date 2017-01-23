@@ -54,7 +54,7 @@
         img[src="/activitysheet/post-images/"] {
            display: none;
         }
-        
+
         .post-time{
           display: block;
           font-size: 0.9rem;
@@ -67,11 +67,19 @@
           border-bottom: 1px solid rgba(0,0,0,.05);
           padding-bottom: 42px;
 
-          img{
-            margin: 10px 0;
-          }
-          .s_vid{
-            margin: 10px 0;
+          .post-container{
+            ul{
+              margin-left: 20px;
+              li{
+                list-style-type: circle;
+              }
+            }
+            img{
+              margin: 10px 0;
+            }
+            .s_vid{
+              margin: 10px 0;
+            }
           }
         }
       }
