@@ -5,9 +5,38 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Jan 2017 16:38:36 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Jan 2017 16:38:36 -0500</lastBuildDate>
+    <pubDate>Tue, 24 Jan 2017 01:14:48 -0500</pubDate>
+    <lastBuildDate>Tue, 24 Jan 2017 01:14:48 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Left/Right arrows and powerful climate change imagery</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;After refactoring and rewriting quite a few things, Diego and I got the left and right arrows working for Stash.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/7KylDhH.gif&quot;/&gt;
+  &lt;p class=&quot;caption&quot;&gt;Stash Left/Right Arrows Demo&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Things are coming along and we will be pushing an update in the near future.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;I also did some research on climate change today and found a great climate change website that has accumulated some compelling imagery. The creators conducted research about each image's effectiveness is conveying global warming.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Here are some examples:&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/zusEavr.jpg&quot;/&gt;
+  &lt;p class=&quot;caption&quot;&gt;Air Pollution China&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/X2ew4aB.jpg&quot;/&gt;
+  &lt;p class=&quot;caption&quot;&gt;Nigerian Oil Fire&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/pjs2bnt.jpg&quot;/&gt;
+  &lt;p class=&quot;caption&quot;&gt;Child and E-Waste&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;These images are disturbing and more people should see them. Find the rest of the pics and the research behind them &lt;a href=&quot;http://www.climatevisuals.org/galleries/climate-causes/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 23 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/23/Day23.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/23/Day23.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Reorganizing my activity sheet</title>
@@ -78,7 +107,7 @@
         <title>React, Redux and progress with Stash</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
     &lt;img src=&quot;http://i.imgur.com/zUK5U9L.png?1&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;Today Diego and I spent some quality time together working on Stash. We're working on creating left and right arrows for moving between items within the overlay.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;Today, Diego and I spent some quality time together working on Stash. We're working on creating left and right arrows for moving between items within the overlay.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;It required quite of bit of refactoring and requires manipulating the global state with Redux.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;I'm happy that Diego has been taking the time to walk me through the relationships between the actions, dispatches, reducers and states.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;Learning this component based framework is hard work, but I know it will pay off. Excited to share the experience with you soon.&lt;/p&gt;
@@ -100,7 +129,7 @@
         <description>&lt;div class=&quot;post-container&quot;&gt;
     &lt;img src=&quot;http://i.imgur.com/8UDbdHJ.jpg&quot;/&gt;
     &lt;p class=&quot;text&quot;&gt;My job hunt is underway. I applied to 7 Prodcut Manager jobs today. 5 in DC and 2 in NYC.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;The one that's currently top of my list is a PM role 1776 (startup space on 15th st.). I'd love to stay engaged with entrepreneurs and I'm already well connected with the DC tech community.&lt;/p&gt;
+    &lt;p class=&quot;text&quot;&gt;The one that's currently top of my list is a PM role at 1776 (startup space on 15th st.). I'd love to stay engaged with entrepreneurs and I'm already well connected within the DC tech community.&lt;/p&gt;
     &lt;p class=&quot;text&quot;&gt;I've also compiled an ongoing list of positions that I'll continue to apply for daily.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -189,27 +218,6 @@
         <pubDate>Sat, 14 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/14/Day14.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/14/Day14.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Read more, read more, read more.</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;img src=&quot;http://i.imgur.com/MK3pW1I.png&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;Part of the reason I love having an activity sheet is that it holds me accountable to the goals I set.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;One of my goals is to read more and when my friend Andrew recommended these two books to me today, it seemed like a great opportunity to commit.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I've purchased the first one 'Cracking the PM Interview' as an amazon kindle e-read and I'm going to try and read it on my phone while I'm at the gym.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I read the first few pages and I can tell that it going to be a good read.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 12 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/12/Day12.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/12/Day12.html</guid>
         
         
         <category>jekyll</category>
