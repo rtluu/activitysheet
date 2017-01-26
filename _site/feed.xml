@@ -5,9 +5,30 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Jan 2017 23:51:56 -0500</pubDate>
-    <lastBuildDate>Tue, 24 Jan 2017 23:51:56 -0500</lastBuildDate>
+    <pubDate>Wed, 25 Jan 2017 23:15:14 -0500</pubDate>
+    <lastBuildDate>Wed, 25 Jan 2017 23:15:14 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Committed to uncovering the truth</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;The truth is out there, but recently people with power have been using their influence to publicly dispute facts and create obstacles to make it difficult for citizens to access important information.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Osebo and I decided that we needed to do our part in helping people access fact based information on environmental, social, economic, and educational issues.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;We chose the name &quot;Hidden Info&quot; because we're committed to uncovering the truth. We'll strive to be unbiased and our writing will require a great deal of research and fact checking to ensure we put out is 100% truthful. We will be providing sources for our findings.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Today we whipped up a basic prototype just to get a sense for what we need to include in the experience.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/pAb2uqH.gif&quot;/&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 25 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/25/Day25.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/25/Day25.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>California job apps and Stashing with Diego</title>
@@ -19,7 +40,7 @@
   &lt;img src=&quot;http://i.imgur.com/iU9ZWCM.gif?1&quot;/&gt;
   &lt;p class=&quot;text&quot;&gt;Osebo also wanted to see what it would look like if we used a museum style view for Stash's cards, so I built a quick prototype.&lt;/p&gt;
   &lt;img src=&quot;http://i.imgur.com/1f1135p.gif&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;The design is nice, but items that only have a favicon or no image at all create gaps in the layout. Another concernt is that it only adds content to the left column rather than moving items across horizontally in rows. That may cause confusion for the user in regards to which items were most recently saved.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;The design is nice, but items that only have a favicon or no image at all create gaps in the layout. Another concern is that it only adds content to the left column rather than adding items across horizontally in rows. That may cause confusion for the user in regards to which items were most recently saved.&lt;/p&gt;
   &lt;p class=&quot;text&quot;&gt;I don't think we're quite ready to implement something like the museum view until we can grab screenshots of webpages that don't have meta images. More on this in the future.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -199,27 +220,6 @@
         <pubDate>Mon, 16 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/16/Day16.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/16/Day16.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>New client with a livestreaming player</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;img src=&quot;http://i.imgur.com/KHZkc2q.png&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;I got a new client today; a company called 4DWW. They do live web broadcasts and web meetings.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;My job is to build them a webpage that has a live streaming video player embedded inside of it via JW player.
-    &lt;p class=&quot;text&quot;&gt;In order to do so I need to link up an Amazon EC2 server with a software called Wowza that will stream the video to a JW embed.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;It's an interesting challenge and I need to do some more due diligence to figure out the best approach.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 15 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/15/Day15.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/15/Day15.html</guid>
         
         
         <category>jekyll</category>
