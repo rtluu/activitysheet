@@ -5,9 +5,29 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Jan 2017 23:15:14 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Jan 2017 23:15:14 -0500</lastBuildDate>
+    <pubDate>Thu, 26 Jan 2017 21:23:37 -0500</pubDate>
+    <lastBuildDate>Thu, 26 Jan 2017 21:23:37 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Embracing ambiguity and studying the IDEO mindset</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;I continue to read Cracking the PM Interview and many of the PMs interviewed in the book emphasize the importance of being curious and striving to learn something new everyday.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;I embrace this mindset and today I came across &lt;a href=&quot;http://designkit.org&quot;&gt;designkit.org&lt;/a&gt;. It's a fantastic resource for learning about human-centered design and being creative.&lt;/p&gt;
+  &lt;iframe src=&quot;https://player.vimeo.com/video/106505300?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;p class=&quot;text&quot;&gt;IDEO has also created some really insightful &lt;a href=&quot;http://www.designkit.org/methods&quot;&gt;design methods&lt;/a&gt; that I will to continue to read and learn from.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 26 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/26/Day26.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/26/Day26.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Committed to uncovering the truth</title>
@@ -202,24 +222,6 @@
         <pubDate>Tue, 17 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/17/Day17.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/17/Day17.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>My personal site is up!</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;img src=&quot;http://i.imgur.com/ha2tIBN.png&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;I put up my new personal site! 🙌🏼 Check it out at &lt;a href=&quot;http://ryanluu.com&quot;&gt;ryanluu.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 16 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/16/Day16.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/16/Day16.html</guid>
         
         
         <category>jekyll</category>
