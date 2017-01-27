@@ -5,9 +5,29 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Jan 2017 10:41:43 -0500</pubDate>
-    <lastBuildDate>Fri, 27 Jan 2017 10:41:43 -0500</lastBuildDate>
+    <pubDate>Fri, 27 Jan 2017 14:24:26 -0500</pubDate>
+    <lastBuildDate>Fri, 27 Jan 2017 14:24:26 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Museum view in React</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;My web work day got shortened because I went to work as a photographer tonight in DC.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;One of the things I was learning about before I left was how to create a museum view for Stash's cards. The main problem with the current version is that items are added in columns instead of in rows. The only way to get the items to position themselves in rows is to use a technique called Masonry.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/LUewtho.gif&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;There are plugins that enable this dynamic positioning in React that I will need to use to create this effect. That'll have to wait a couple days though because I'm headed to NYC with Kristina tomorrow morning 🗽!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 26 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/26/Day27.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/26/Day27.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Embodying the product manager mindset</title>
@@ -203,26 +223,6 @@
         <pubDate>Wed, 18 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/18/Day18.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/18/Day18.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Revamped my resume and LinkedIn profile</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;I've been reading that book on nailing the PM interview and have been picking up ways to improve my resume. I decided to completely redesign the layout, rewrite the copy and I added a references section.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I also met with my mentor, Seda, today at BunkerLabs and told her about my ambition to land a job as a Product Manager. She gave me a lot of great advice and told me that in addition to redoing my resume that I needed to update my &lt;a href=&quot;http://linkedin.com/in/ryanluu&quot;&gt;LinkedIn&lt;/a&gt;. So I did.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I'm ready to start applying for PM positions and have already started writing cover letters. Lets go!&lt;/p&gt;
-    &lt;img src=&quot;http://i.imgur.com/noGifL2.png&quot;/&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 17 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/17/Day17.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/17/Day17.html</guid>
         
         
         <category>jekyll</category>
