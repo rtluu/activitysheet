@@ -5,9 +5,56 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Jan 2017 14:24:26 -0500</pubDate>
-    <lastBuildDate>Fri, 27 Jan 2017 14:24:26 -0500</lastBuildDate>
+    <pubDate>Mon, 30 Jan 2017 10:34:05 -0500</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2017 10:34:05 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>The High Line and The Whitney Museum</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;Continuing our adventure in New York, we walked the High Line this morning.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/8fG7DJj.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/gmWrk2G.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/CWRL7Sw.jpg&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;And visited the Whitney in the afternoon.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/h8rXkIL.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/EGSM3g7.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/4qiiR7B.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/dNTkZEK.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/CW4WGg1.jpg&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;The trip to NYC was a blast, can't wait to do more exploring soon!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 29 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/29/Day29.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/29/Day29.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>The Blue Man Group in NYC</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;I traveled up to New York this morning for a weekend in Manhattan.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Kristina and I walked through Times Square/Central Park and ended the day by seeing the Blue Man Group at Astor Theatre. Here are a couple pics.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/ZASUr14.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/QDPeRrd.jpg?1&quot;/&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 28 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/28/Day28.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/28/Day28.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Museum view in React</title>
@@ -18,9 +65,9 @@
   &lt;p class=&quot;text&quot;&gt;There are plugins that enable this dynamic positioning in React that I will need to use to create this effect. That'll have to wait a couple days though because I'm headed to NYC with Kristina tomorrow morning 🗽!&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 26 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/26/Day27.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/26/Day27.html</guid>
+        <pubDate>Fri, 27 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/27/Day27.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/27/Day27.html</guid>
         
         
         <category>jekyll</category>
@@ -182,47 +229,6 @@
         <pubDate>Fri, 20 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/20/Day20.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/20/Day20.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>React, Redux and progress with Stash</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;img src=&quot;http://i.imgur.com/zUK5U9L.png?1&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;Today, Diego and I spent some quality time together working on Stash. We're working on creating left and right arrows for moving between items within the overlay.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;It required quite of bit of refactoring and requires manipulating the global state with Redux.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I'm happy that Diego has been taking the time to walk me through the relationships between the actions, dispatches, reducers and states.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;Learning this component based framework is hard work, but I know it will pay off. Excited to share the experience with you soon.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 19 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/19/Day19.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/19/Day19.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>The job hunt has begun</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;img src=&quot;http://i.imgur.com/8UDbdHJ.jpg&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;My job hunt is underway. I applied to 7 Prodcut Manager jobs today. 5 in DC and 2 in NYC.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;The one that's currently top of my list is a PM role at 1776 (startup space on 15th st.). I'd love to stay engaged with entrepreneurs and I'm already well connected within the DC tech community.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I've also compiled an ongoing list of positions that I'll continue to apply for daily.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 18 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/18/Day18.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/18/Day18.html</guid>
         
         
         <category>jekyll</category>
