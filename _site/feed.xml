@@ -5,9 +5,29 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Jan 2017 10:17:29 -0500</pubDate>
-    <lastBuildDate>Tue, 31 Jan 2017 10:17:29 -0500</lastBuildDate>
+    <pubDate>Tue, 31 Jan 2017 21:35:24 -0500</pubDate>
+    <lastBuildDate>Tue, 31 Jan 2017 21:35:24 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Checking off tickets at WeWork</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;I took a trip downtown to tour two different WeWork offices today. The first one was near the White House and the other was in Dupont Circle.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/02OHHnq.jpg&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;It was nice to work in a new environment and I was able to check off all but one of my tickets on the sprint board. Another plus was being able to get feedback from random people in the coworking space.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;I'm not sure if it makes sense for me to commit to the coworking space at this point, but I'm going to sleep on it.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 31 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/01/31/Day31.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/31/Day31.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>One week sprints for a better workflow</title>
@@ -206,28 +226,6 @@
         <pubDate>Sun, 22 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/22/Day22.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/22/Day22.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Photos from the Washingtonian Inaugural Party</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;Tonight, I was a photographer at the 2017 Washingtonian Inaugural Party.&lt;/p&gt;
-    &lt;img src=&quot;http://i.imgur.com/ZU27KJY.jpg&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;It was a busy night and my friend David was able to capture a quick timelapse while I was shooting.&lt;/p&gt;
-    &lt;div class=&quot;s_vid&quot; style=&quot;width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;&quot;&gt;&lt;iframe src=&quot;https://streamable.com/e/x1hji&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling=&quot;no&quot; style=&quot;width: 100%; height: 100%; position: absolute;&quot;&gt;&lt;/iframe&gt;&lt;script async defer src=&quot;https://v.embedcdn.com/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
-    &lt;p class=&quot;text&quot;&gt;A cool bonus was getting to try out a 360 degree camera station with Mandi.&lt;/p&gt;
-    &lt;img src=&quot;http://i.imgur.com/XMjGBXT.gif&quot;/&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 21 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/21/Day21.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/21/Day21.html</guid>
         
         
         <category>jekyll</category>
