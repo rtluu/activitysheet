@@ -5,9 +5,30 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Jan 2017 21:35:24 -0500</pubDate>
-    <lastBuildDate>Tue, 31 Jan 2017 21:35:24 -0500</lastBuildDate>
+    <pubDate>Thu, 02 Feb 2017 09:59:44 -0500</pubDate>
+    <lastBuildDate>Thu, 02 Feb 2017 09:59:44 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Consulting before building the wrong thing</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;This past month I mentioned that I had acquired a new client that is looking to build a livestreaming video platform for webroadcasts and webinars.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;We've spent the past few weeks outlining a scope of work and digging into the details to develop a full understanding of the company vision as well as what's required to get to an MVP.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;After multiple sessions of ironing out the specifics, it became apparent that the best path to success wasn't to just start building an inflexible demo, but to do more research to find a scaleable solution.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;In this case, we found that instead of using a two solutions tied together with hard code, that an end-to-end technology is a better solution that reduces complexity and offers additional benefits in the form of analytics and integrations.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;It's great to have the chance to work directly with clients in my pursuit to become a better Product Manager. I've learned that it is extremely important to fully comprehend a client's vision and goals before moving into the design/build process. It saved me weeks of time and prevented them from wasting money on a semi-useful product that wouldn't scale.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/01/Day32.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/01/Day32.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Checking off tickets at WeWork</title>
@@ -205,27 +226,6 @@
         <pubDate>Mon, 23 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/23/Day23.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/23/Day23.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Reorganizing my activity sheet</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-    &lt;p class=&quot;text&quot;&gt;I want to make it easier for people to view my activity sheet without having to click through titles to see each post.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;So I'm using Jekyll's excerpt mechanism to show each post on the home page. I also restyled the way the posts are presented on the homepage to provide clear separation between each entry.&lt;/p&gt;
-    &lt;p class=&quot;text&quot;&gt;I only got a few hours of sleep last night because I had to be up early for a wedding showcase this morning.&lt;/p&gt;
-    &lt;img src=&quot;http://i.imgur.com/dLR6RnX.jpg&quot;/&gt;
-    &lt;p class=&quot;text&quot;&gt;I was in heavy sales mode with our Mirror Booth and helped my photography company get over 100 client sign ups.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 22 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/22/Day22.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/22/Day22.html</guid>
         
         
         <category>jekyll</category>
