@@ -5,9 +5,32 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Feb 2017 09:59:44 -0500</pubDate>
-    <lastBuildDate>Thu, 02 Feb 2017 09:59:44 -0500</lastBuildDate>
+    <pubDate>Fri, 03 Feb 2017 11:17:01 -0500</pubDate>
+    <lastBuildDate>Fri, 03 Feb 2017 11:17:01 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>More info in item overlay</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;Osebo and I spent time today trying to figure out how we can show additional information about each item after it's opened.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;He can up with a few designs and the one that we decided to build looks like this.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/Jwb1I2v.png&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;It seems pretty straight forward, but it is extremely hard to get the block on the right to scale appropriately when the content on the left varies in size.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;I'm hoping to find a way to make it work, but we may need to redesign the more info block.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/UTuFXLt.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/nXxsrCD.jpg&quot;/&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/02/Day33.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/02/Day33.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Consulting before building the wrong thing</title>
@@ -197,35 +220,6 @@
         <pubDate>Tue, 24 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/24/Day24.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/24/Day24.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Left/Right arrows and powerful climate change imagery</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;After refactoring and rewriting quite a few things, Diego and I got the left and right arrows working for Stash.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/7KylDhH.gif&quot;/&gt;
-  &lt;p class=&quot;caption&quot;&gt;Stash Left/Right Arrows Demo&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Things are coming along and we will be pushing an update in the near future.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;I also did some research on climate change today and found a great climate change website that has accumulated some compelling imagery. The creators conducted research about each image's effectiveness is conveying global warming.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Here are some examples:&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/zusEavr.jpg&quot;/&gt;
-  &lt;p class=&quot;caption&quot;&gt;Air Pollution China&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/X2ew4aB.jpg&quot;/&gt;
-  &lt;p class=&quot;caption&quot;&gt;Nigerian Oil Fire&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/pjs2bnt.jpg&quot;/&gt;
-  &lt;p class=&quot;caption&quot;&gt;Child and E-Waste&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;These images are disturbing and more people should see them. Find the rest of the pics and the research behind them &lt;a href=&quot;http://www.climatevisuals.org/galleries/climate-causes/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 23 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/23/Day23.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/23/Day23.html</guid>
         
         
         <category>jekyll</category>
