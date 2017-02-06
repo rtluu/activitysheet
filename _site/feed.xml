@@ -5,17 +5,57 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Feb 2017 09:13:15 -0500</pubDate>
-    <lastBuildDate>Sat, 04 Feb 2017 09:13:15 -0500</lastBuildDate>
+    <pubDate>Mon, 06 Feb 2017 11:22:10 -0500</pubDate>
+    <lastBuildDate>Mon, 06 Feb 2017 11:22:10 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>A Legendary Comeback</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;Superbowl Sunday is basically a holiday in the US, but I did have a photography gig this morning in Baltimore. Luckily it ended at 4pm, so I was still able to participate in the Superbowl festivities.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;The game was between the Atlanta Falcons &amp; the New England Patriots. The first three quarters of the game were all Atlanta with the Falcons holding a 28 to 3 lead at one point.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;But some how, Tom Brady led his team back in the 4th quarter to tie the game at 28, force overtime, and drive down the field in overtime to score a game winning touchdown to win his 5th Superbowl. Epic.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/ufH5AhR.jpg&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;It goes to show that the greatest winners in life, never give up no matter how grim the situation looks.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 05 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/05/Day36.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/05/Day36.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Completed the Vimeo Demo</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;I finished the Vimeo hover to play demo this morning.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/0oXFMZ2.gif?1&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;I'm really  happy with how it came out! You can try the experience for yourself &lt;a href=&quot;http://rtluu.github.io/vimeodemo&quot;&gt;here&lt;/a&gt; (web only*).&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 04 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/04/Day35.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/04/Day35.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>A Vimeo Experiment</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
   &lt;p class=&quot;text&quot;&gt;On Tuesday, I have a interview with Vimeo for a Creative Technologist position with a focus on their video player. I'm excited!&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;I have a lot of experience working with YouTube's player, but I haven't tried with Vimeo's yet. I thought it would be a cool challenge to see if I could recreate hover to play viewing with Vimeo's player.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;I have a lot of experience working with YouTube's player, but I haven't spent much time working with Vimeo's player yet. I thought it would be a cool challenge to see if I could recreate hover to play viewing with Vimeo's player.&lt;/p&gt;
   &lt;img src=&quot;http://i.imgur.com/nyFkUjZ.png&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;I'm setting a deadline for Monday. Time to get it done.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;I'm not quite sure how difficult it's going to be, but it should be fairly straightforward.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 03 Feb 2017 00:00:00 -0500</pubDate>
@@ -173,48 +213,6 @@
         <pubDate>Fri, 27 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/27/Day27.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/27/Day27.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Embodying the product manager mindset</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;I continue to read Cracking the PM Interview and many of the PMs interviewed in the book emphasize the importance of being constantly curious. I agree with this ideology and will push myself to learn something new everyday.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt; Today, I came across &lt;a href=&quot;http://designkit.org&quot;&gt;designkit.org&lt;/a&gt;. It's a fantastic resource for learning about human-centered design, crafted by IDEO.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;This is an intro video they created about human-centered design.&lt;/p&gt;
-  &lt;iframe src=&quot;https://player.vimeo.com/video/106505300?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-  &lt;p class=&quot;text&quot;&gt;IDEO has also created some really insightful &lt;a href=&quot;http://www.designkit.org/methods&quot;&gt;design methods&lt;/a&gt; that are worth checking out.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 26 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/26/Day26.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/26/Day26.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Committed to uncovering the truth</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;The truth is out there, but recently people with power have been using their influence to publicly dispute facts and create obstacles to make it difficult for citizens to access important information.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Osebo and I decided that we needed to do our part in helping people access fact based information on environmental, social, economic, and educational issues.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;We chose the name &quot;Hidden Info&quot; because we're committed to uncovering the truth. We'll strive to be unbiased and our writing will require a great deal of research and fact checking to ensure we put out is 100% truthful. We will be providing sources for our findings.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Today we whipped up a basic prototype just to get a sense for what we need to include in the experience.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/pAb2uqH.gif&quot;/&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 25 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/25/Day25.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/25/Day25.html</guid>
         
         
         <category>jekyll</category>
