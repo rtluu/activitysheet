@@ -5,9 +5,29 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Feb 2017 11:22:10 -0500</pubDate>
-    <lastBuildDate>Mon, 06 Feb 2017 11:22:10 -0500</lastBuildDate>
+    <pubDate>Tue, 07 Feb 2017 11:54:42 -0500</pubDate>
+    <lastBuildDate>Tue, 07 Feb 2017 11:54:42 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Deployed a new Stash</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;The Stash team finished our one week sprint today with a successful deployment to our testing server. User signup/login in now working along with a new design of the items and item overlays.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/XCUrepk.png&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;Getting both design and development back together on the sprint board was very effective in helping the team stay on track and we were able to set clear objectives for the next week.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;We have a collage view in the pipeline that will replace the grid view and we're finishing up profiles so users can truly create their own stashes. In the meantime, checkout the latest version &lt;a href=&quot;http://staging.stash.ag&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 06 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/06/Day37.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/06/Day37.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>A Legendary Comeback</title>
@@ -193,26 +213,6 @@
         <pubDate>Sat, 28 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/28/Day28.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/28/Day28.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Museum view in React</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;My web work day got shortened because I went to work as a photographer tonight in DC.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;One of the things I was learning about before I left was how to create a museum view for Stash's cards. The main problem with the current version is that items are added in columns instead of in rows. The only way to get the items to position themselves in rows is to use a technique called Masonry.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/LUewtho.gif&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;There are plugins that enable this dynamic positioning in React that I will need to use to create this effect. That'll have to wait a couple days though because I'm headed to NYC with Kristina tomorrow morning 🗽!&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 27 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/27/Day27.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/27/Day27.html</guid>
         
         
         <category>jekyll</category>
