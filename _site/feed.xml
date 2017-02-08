@@ -5,9 +5,30 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Feb 2017 11:54:42 -0500</pubDate>
-    <lastBuildDate>Tue, 07 Feb 2017 11:54:42 -0500</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2017 10:51:58 -0500</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 10:51:58 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Lazy loading and a potential new brand</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;I started working on a lazy loading feature for Stash that would optimize loading efficiency for the experience and more importantly reduce the amount of calls we make to iframely. The more calls we make the more money we pay, so this is an important improvement.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Osebo and I have also been trying to figure out a new brand identify for Stash because of the confusion that's created by other companies that have the same name.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Today we came up with forshow.co. I actually really like it. Creating collections for showing other people is the goal, so the name makes a lot of sense.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/aXfDjRG.png&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;Side note, I had my phone interview today and I have been invited to a second round interview 😀!
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 07 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/07/Day38.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/07/Day38.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Deployed a new Stash</title>
@@ -193,26 +214,6 @@
         <pubDate>Sun, 29 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/01/29/Day29.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/29/Day29.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>The Blue Man Group in NYC</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;I traveled up to New York this morning for a weekend in Manhattan.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Kristina and I walked through Times Square/Central Park and ended the day by seeing the Blue Man Group at Astor Theatre. Here are a couple pics.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/ZASUr14.jpg&quot;/&gt;
-  &lt;img src=&quot;http://i.imgur.com/QDPeRrd.jpg?1&quot;/&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 28 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/28/Day28.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/28/Day28.html</guid>
         
         
         <category>jekyll</category>
