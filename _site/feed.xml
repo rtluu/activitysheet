@@ -5,9 +5,88 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Feb 2017 11:13:19 -0500</pubDate>
-    <lastBuildDate>Thu, 09 Feb 2017 11:13:19 -0500</lastBuildDate>
+    <pubDate>Mon, 13 Feb 2017 11:14:28 -0500</pubDate>
+    <lastBuildDate>Mon, 13 Feb 2017 11:14:28 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Rainbow V1</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;Sid, Osebo and I were able to get a MVP version of Rainbow working!&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/t8A0rth.gif&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;It's been quite a challenge due to a couple unforseen constraints. The primary one is the inability to build and make changes locally. In order for the experience to work, the user must authenticate with soundcloud's api.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Despite the roadblocks, we've been able to get a list of people you follow and when you select someone, it shows their soundcloud likes via embeds. Soundcloud's embeds are pretty load heavy so we've implemented lazy loading to reduce load times.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Next we're looking at creating our own soundcloud player so we don't need to rely on the embeds and can create a more fluid experience where songs play in successsion.
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 12 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/12/Day43.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/12/Day43.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Exhausting photography double</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;I really enjoy sharing updates on the things I'm building, but somedays it isn't so glamorous.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Today, I worked a double for my photography job and was out of the house from 9am to 1am. It was long, and tiring.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;BUT, I can't complain because this job gives me the flexibility to focus my energy on creating during the work week.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 11 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/11/Day42.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/11/Day42.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Forshow landing layer</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;Forshow's landing page needed an update now that we're changing the brand, so I worked with Osebo to create a new experience.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/Il3XLfq.gif&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;There are some concerns about hiding the examples at first and we will likely reorganize the message to show the examples upfront. More to come.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/10/Day41.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/10/Day41.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Rainbow's first working UX</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;Rainbow is a side project to help people discover music their friends are listening to. Osebo, Sid and I worked to put together the first working UX.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/j1S4q3k.gif&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;Users sign in with their SoundCloud account and Rainbow shows a list of the people they are following. When a user clicks on one of their friends, their friend's liked songs from SoundCloud will display in the feed.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;A working demo will be ready by this weekend.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 09 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/09/Day40.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/09/Day40.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>New Nav &amp; Add Link</title>
@@ -122,91 +201,6 @@
         <pubDate>Fri, 03 Feb 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/02/03/Day34.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/03/Day34.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>More info in item overlay</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;Osebo and I spent time today trying to figure out how we can show additional information about each item after it's opened.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;He can up with a few designs and the one that we decided to build looks like this.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/Jwb1I2v.png&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;It seems pretty straight forward, but it is extremely hard to get the block on the right to scale appropriately when the content on the left varies in size.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;I'm hoping to find a way to make it work, but we may need to redesign the more info block.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/UTuFXLt.jpg&quot;/&gt;
-  &lt;img src=&quot;http://i.imgur.com/nXxsrCD.jpg&quot;/&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/02/Day33.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/02/Day33.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Consulting before building the wrong thing</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;This past month I mentioned that I had acquired a new client that is looking to build a livestreaming video platform for webroadcasts and webinars.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;We've spent the past few weeks outlining a scope of work and digging into the details to develop a full understanding of the company vision as well as what's required to get to an MVP.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;After multiple sessions of ironing out the specifics, it became apparent that the best path to success wasn't to just start building an inflexible demo, but to do more research to find a scaleable solution.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;In this case, we found that instead of using a two solutions tied together with hard code, that an end-to-end technology is a better solution that reduces complexity and offers additional benefits in the form of analytics and integrations.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;It's great to have the chance to work directly with clients in my pursuit to become a better Product Manager. I've learned that it is extremely important to fully comprehend a client's vision and goals before moving into the design/build process. It saved me weeks of time and prevented them from wasting money on a semi-useful product that wouldn't scale.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/01/Day32.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/01/Day32.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Checking off tickets at WeWork</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;I took a trip downtown to tour two different WeWork offices today. The first one was near the White House and the other was in Dupont Circle.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/02OHHnq.jpg&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;It was nice to work in a new environment and I was able to check off all but one of my tickets on the sprint board. Another plus was being able to get feedback from random people in the coworking space.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;I'm not sure if it makes sense for me to commit to the coworking space at this point, but I'm going to sleep on it.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 31 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/31/Day31.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/31/Day31.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>One week sprints for a better workflow</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;The needs of each team change over time and as a product manager it's my job to make decisions to improve the effectiveness of the team's workflow.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;With all of our team members having full time commitments (jobs, school, clients), our building process with Stash has been divided and inconsistent. This has led to a gap between design and development where neither side is aware of what the other is working on. We have a sprint board for development, but the design work hasn't been tracked.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Our team needs a better way to keep track of all of our work in one place so we can set goals together, log our work, and hold each other accountable. The solution is to include design objectives to our sprint board and shorten the sprints to one week.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/oF0yjbH.png&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;I'm excited to see how this improves our workflow. Grind time.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 30 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/01/30/Day30.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/01/30/Day30.html</guid>
         
         
         <category>jekyll</category>
