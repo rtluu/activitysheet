@@ -5,9 +5,28 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Feb 2017 11:22:16 -0500</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2017 11:22:16 -0500</lastBuildDate>
+    <pubDate>Tue, 21 Feb 2017 13:07:29 -0500</pubDate>
+    <lastBuildDate>Tue, 21 Feb 2017 13:07:29 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Roadblocks in deployment</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;Deploying tech products is simultaneously exciting and strenuous.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;We've merged our changes together and when we deployed them to staging there were multiple unforeseen errors. It's easy to forget how much testing is involved before launching a good product and I need to spend some more time working with the guys to iron out the bugs.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;We also closed a sprint today and outlined what we're working on next. Good things are coming!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/20/Day51.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/20/Day51.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Sunny day and preparing to launch</title>
@@ -180,25 +199,6 @@
         <pubDate>Sat, 11 Feb 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/02/11/Day42.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/11/Day42.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Forshow landing layer</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;Forshow's landing page needed an update now that we're changing the brand, so I worked with Osebo to create a new experience.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/Il3XLfq.gif&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;There are some concerns about hiding the examples at first and we will likely reorganize the message to show the examples upfront. More to come.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 10 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/10/Day41.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/10/Day41.html</guid>
         
         
         <category>jekyll</category>
