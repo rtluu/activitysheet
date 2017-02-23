@@ -5,9 +5,50 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Feb 2017 13:07:29 -0500</pubDate>
-    <lastBuildDate>Tue, 21 Feb 2017 13:07:29 -0500</lastBuildDate>
+    <pubDate>Thu, 23 Feb 2017 09:57:52 -0500</pubDate>
+    <lastBuildDate>Thu, 23 Feb 2017 09:57:52 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Revamping my personal site... again</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;My personal site didn't excite me so I decided to make some changes.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/pdsiCWd.gif&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;Brendan suggested that I try to incorporate some of my values into the experience to better express who I am. The first words that come to mind are: curiosity, discovery and exploration. I have some ideas, but we'll see what I come up with.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 22 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/22/Day53.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/22/Day53.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>A new goal: NYC Summer 2017</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;I'm setting a new goal for myself. By my birthday (June 9th), I want to be living and working in NYC.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;It's a great time to expand my horizons and my mom is finally in the homestrecth of recovering from her 4 foot surgeries.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Here are some pics from a previous trip up to the city.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/HSON9re.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/7qIkeM6.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/ELGspR5.jpg&quot;/&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 21 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/21/Day52.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/21/Day52.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Roadblocks in deployment</title>
@@ -159,46 +200,6 @@
         <pubDate>Mon, 13 Feb 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/02/13/Day44.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/13/Day44.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Rainbow V1</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;Sid, Osebo and I were able to get a MVP version of Rainbow working!&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/t8A0rth.gif&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;It's been quite a challenge due to a couple unforseen constraints. The primary one is the inability to build and make changes locally. In order for the experience to work, the user must authenticate with soundcloud's api.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Despite the roadblocks, we've been able to get a list of people you follow and when you select someone, it shows their soundcloud likes via embeds. Soundcloud's embeds are pretty load heavy so we've implemented lazy loading to reduce load times.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Next we're looking at creating our own soundcloud player so we don't need to rely on the embeds and can create a more fluid experience where songs play in successsion.
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 12 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/12/Day43.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/12/Day43.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Exhausting photography double</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;I really enjoy sharing updates on the things I'm building, but somedays it isn't so glamorous.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Today, I worked a double for my photography job and was out of the house from 9am to 1am. It was long, and tiring.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;BUT, I can't complain because this job gives me the flexibility to focus my energy on creating during the work week.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 11 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/11/Day42.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/11/Day42.html</guid>
         
         
         <category>jekyll</category>
