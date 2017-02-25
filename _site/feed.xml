@@ -5,9 +5,28 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2017 09:22:20 -0500</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2017 09:22:20 -0500</lastBuildDate>
+    <pubDate>Sat, 25 Feb 2017 14:33:05 -0500</pubDate>
+    <lastBuildDate>Sat, 25 Feb 2017 14:33:05 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Stash is up!</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;We officially deployed Stash to our main url &lt;a href=&quot;http://stash.ag&quot;&gt;http://stash.ag&lt;/a&gt;&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/eI1peg5.gif&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;We've begun reaching out to early users to test the product and are collecting feedback. I'm excited to hear what people think!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 24 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/24/Day55.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/24/Day55.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>MC at the Muster</title>
@@ -186,26 +205,6 @@
         <pubDate>Wed, 15 Feb 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/02/15/Day46.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/15/Day46.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Left/Right and Esc keys</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;Today I was able to get the key press events to work inside of the item overlays.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/HFaaBC0.gif&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;They're really nice and the experience is really snappy thanks to React.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;We're finshing up a few last fixes and we should be launching to production within the week!&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 14 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/14/Day45.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/14/Day45.html</guid>
         
         
         <category>jekyll</category>
