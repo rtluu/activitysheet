@@ -168,6 +168,10 @@ pre {
           font-size: 0.8rem;
           font-style: italic;
           margin-top: -4px; }
+    .main-container .home-box .pagination .page-link:hover {
+      text-decoration: underline; }
+    .main-container .home-box .pagination .page-link#next {
+      float: right; }
   .main-container .return-home {
     margin-bottom: 30px;
     position: relative; }
