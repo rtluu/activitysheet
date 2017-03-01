@@ -5,9 +5,27 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Feb 2017 23:14:30 -0500</pubDate>
-    <lastBuildDate>Mon, 27 Feb 2017 23:14:30 -0500</lastBuildDate>
+    <pubDate>Tue, 28 Feb 2017 19:08:04 -0500</pubDate>
+    <lastBuildDate>Tue, 28 Feb 2017 19:08:04 -0500</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Projects on my resume</title>
+        <description>&lt;div class=&quot;post-container&quot;&gt;
+  &lt;p class=&quot;text&quot;&gt;As I prepare to hunt for jobs in NYC, I decided to make a few updates to my resume. Mainly adding my tech projects to showcase my technical experience.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/wb4odev.jpg&quot;/&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 27 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/27/Day58.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/27/Day58.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Explore door for my personal site</title>
@@ -185,25 +203,6 @@
         <pubDate>Sat, 18 Feb 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/02/18/Day49.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/18/Day49.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>More Mobile</title>
-        <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;Today was all about finishing more mobile media queries.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/7CJsgBt.gif&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;The navigation now changes when the users scrolls past a certain height and the item overlays on mobile are swift with left/right arrow.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/17/Day48.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/17/Day48.html</guid>
         
         
         <category>jekyll</category>
