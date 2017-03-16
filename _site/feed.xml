@@ -5,21 +5,26 @@
     <description>My activity sheet is a daily log of my work, process, and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Mar 2017 18:43:52 -0500</pubDate>
-    <lastBuildDate>Wed, 01 Mar 2017 18:43:52 -0500</lastBuildDate>
+    <pubDate>Thu, 16 Mar 2017 11:26:36 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2017 11:26:36 -0400</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
-        <title>Vumble case study</title>
+        <title>Wizards game</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;I finished my case study for Vumble and deployed it to my personal website.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/5JEAklw.gif&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;It breaksdown my process in creating Vumble and highlights some of the front end engagements that I developed. You can checkout the case study &lt;a href=&quot;http://ryanluu.com/vumble.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;I've been working on job applications constantly and have a few interviews coming up 🙌🏼.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Kristina and I also got tickets to the Wizards v. Mavs game tonight (she's from Dallas).&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/gousi94.jpg&quot;/&gt;
+  &lt;p class=&quot;caption&quot;&gt;Why did she wear a wiz shirt??&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/yx7wqIN.jpg&quot;/&gt;
+  &lt;p class=&quot;caption&quot;&gt;View&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/BEKYoBr.jpg&quot;/&gt;
+  &lt;p class=&quot;caption&quot;&gt;Faces after Dallas won.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Tue, 28 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/28/Day59.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/28/Day59.html</guid>
+        <pubDate>Wed, 15 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/15/Day74.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/15/Day74.html</guid>
         
         
         <category>jekyll</category>
@@ -29,15 +34,17 @@
       </item>
     
       <item>
-        <title>Projects on my resume</title>
+        <title>Snow storm and competitive analysis</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;As I prepare to hunt for jobs in NYC, I decided to make a few updates to my resume. Mainly adding my tech projects to showcase my technical experience.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/wb4odev.jpg&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;The north east got hit by a mix of snow/sleet last night. I woke up to a snowy driveway and a competitor on Designer News called Buckets.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/8OlnqoW.png&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;They are a visual bookmarking tool that takes screenshots of urls. It's built in wordpress and got a decent amount of upvotes on Product Hunt.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;It's definitely a good sign and shows that users continue to face a problem when trying to collect content online. The team and I are learning a lot from analyzing the product and the comments that they've received.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 27 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/27/Day58.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/27/Day58.html</guid>
+        <pubDate>Tue, 14 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/14/Day73.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/14/Day73.html</guid>
         
         
         <category>jekyll</category>
@@ -47,16 +54,15 @@
       </item>
     
       <item>
-        <title>Explore door for my personal site</title>
+        <title>Mobile registration switch redo</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;My personal site has been in reconstruction and I've decided to add an 'explore' button as an entry point to my work.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/9no13LU.gif&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;I've also started writing a case study for Vumble that will provide visitors with more insight into my development process.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;We made a lot of updates to user registration which includes a way for users to reset their passwords. I had to update the frontend to account for the changes which included reimplementing the mobile login switch.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/rrHz2Yj.gif&quot;/&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 26 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/26/Day57.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/26/Day57.html</guid>
+        <pubDate>Mon, 13 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/13/Day72.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/13/Day72.html</guid>
         
         
         <category>jekyll</category>
@@ -66,17 +72,16 @@
       </item>
     
       <item>
-        <title>Paginating my activity sheet</title>
+        <title>Footer for eego</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;My activity sheet is getting long and loading 50 plus posts on one page just isn't efficient, so I spent time today figuring out how to paginate my activity sheet. &lt;/a&gt;&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;I also worked tonight as a photographer. Here are a couple pics from my events this weekend.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/ukqOjX2.png&quot;/&gt;
-  &lt;img src=&quot;http://i.imgur.com/0CvaPyN.jpg&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;We made a footer for eego that will show on all static pages.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/2NERqTe.gif&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;I'll be finishing the FAQ next.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 25 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/25/Day56.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/25/Day56.html</guid>
+        <pubDate>Sun, 12 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/12/Day71.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/12/Day71.html</guid>
         
         
         <category>jekyll</category>
@@ -86,16 +91,17 @@
       </item>
     
       <item>
-        <title>Stash is up!</title>
+        <title>A trip to the Smithsonian</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;We officially deployed Stash to our main url &lt;a href=&quot;http://stash.ag&quot;&gt;http://stash.ag&lt;/a&gt;&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/eI1peg5.gif&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;We've begun reaching out to early users to test the product and are collecting feedback. I'm excited to hear what people think!&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;This morning I went to the Smithsonian Museum of Natural History with Kristina and a few of her friends.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/SZU5XMb.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/fwVB69W.jpg&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;It's pretty incredible that DC has multiple world renown museums that are all free!&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Fri, 24 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/24/Day55.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/24/Day55.html</guid>
+        <pubDate>Sat, 11 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/11/Day70.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/11/Day70.html</guid>
         
         
         <category>jekyll</category>
@@ -105,22 +111,17 @@
       </item>
     
       <item>
-        <title>MC at the Muster</title>
+        <title>4DWW Studio</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;Today, I was the MC for a pitch competition at the BunkerLabs DC Muster. It was a great experience!&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;I had the opportunity to meet the founder of Bunker Labs, Todd Connor and made some great connections.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Here are a few pics.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/8gZvaya.jpg&quot;/&gt;
-  &lt;p class=&quot;caption&quot;&gt;Giving out the check&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/sv9pzkL.jpg&quot;/&gt;
-  &lt;p class=&quot;caption&quot;&gt;My mentor Seda&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/9yMxMD7.jpg&quot;/&gt;
-  &lt;p class=&quot;caption&quot;&gt;Down by the water&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;I've been continuing to consult for a web broadcasting company and got the chance to see the studio they've created to achieve professional grade livestreaming.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;The technology is extremely impressive and the room-size green screen setup allows for different backdrops for the broadcasts.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/3FJrhbB.jpg&quot;/&gt;
+  &lt;img src=&quot;http://i.imgur.com/qqSMVvu.gif&quot;/&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 23 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/23/Day54.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/23/Day54.html</guid>
+        <pubDate>Fri, 10 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/10/Day69.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/10/Day69.html</guid>
         
         
         <category>jekyll</category>
@@ -130,16 +131,17 @@
       </item>
     
       <item>
-        <title>Revamping my personal site... again</title>
+        <title>New Brand and Landing Page</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;My personal site didn't excite me so I decided to make some changes.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/pdsiCWd.gif&quot;/&gt;
-  &lt;p class=&quot;text&quot;&gt;Brendan suggested that I try to incorporate some of my values into the experience to better express who I am. The first words that come to mind are: curiosity, discovery and exploration. I have some ideas, but we'll see what I come up with.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;We're changing the brand from Stash to eego. This transition is about a month in the making, but we're finally ready to begin the rebranding.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;While Stash is a fairly good name, it is highly overused and terrible for brand recognition in SEO, especially with a .ag domain name.&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;Osebo came up with eego because collections serve as a symbol of an individual's identity. With that in mind, our goal is to help people create collections they're proud of.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/A6yFRAN.png&quot;/&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 22 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/22/Day53.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/22/Day53.html</guid>
+        <pubDate>Thu, 09 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/09/Day68.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/09/Day68.html</guid>
         
         
         <category>jekyll</category>
@@ -149,19 +151,16 @@
       </item>
     
       <item>
-        <title>A new goal: NYC Summer 2017</title>
+        <title>Job apps galore</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;I'm setting a new goal for myself. By my birthday (June 9th), I want to be living and working in NYC.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;It's a great time to expand my horizons and my mom is finally in the homestrecth of recovering from her 4 foot surgeries.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Here are some pics from a previous trip up to the city.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/HSON9re.jpg&quot;/&gt;
-  &lt;img src=&quot;http://i.imgur.com/7qIkeM6.jpg&quot;/&gt;
-  &lt;img src=&quot;http://i.imgur.com/ELGspR5.jpg&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;I've been applying to a ton of positions in NYC for front-end development and product management. There are some great opportunities where I feel I can make a significant impact.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/EIZeayv.png&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;I'm just starting to hear back and I'm excited to start interviewing!&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Tue, 21 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/21/Day52.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/21/Day52.html</guid>
+        <pubDate>Wed, 08 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/08/Day67.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/08/Day67.html</guid>
         
         
         <category>jekyll</category>
@@ -171,16 +170,15 @@
       </item>
     
       <item>
-        <title>Roadblocks in deployment</title>
+        <title>Reset your password</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;Deploying tech products is simultaneously exciting and strenuous.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;We've merged our changes together and when we deployed them to staging there were multiple unforeseen errors. It's easy to forget how much testing is involved before launching a good product and I need to spend some more time working with the guys to iron out the bugs.&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;We also closed a sprint today and outlined what we're working on next. Good things are coming!&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;To close out Stash's user registration, we've added a forgot your password flow that sends users an email with a link to reset their password.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/lC6pEpq.gif&quot;/&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 20 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/20/Day51.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/20/Day51.html</guid>
+        <pubDate>Tue, 07 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/07/Day66.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/07/Day66.html</guid>
         
         
         <category>jekyll</category>
@@ -190,19 +188,16 @@
       </item>
     
       <item>
-        <title>Sunny day and preparing to launch</title>
+        <title>Footer update for all pages</title>
         <description>&lt;div class=&quot;post-container&quot;&gt;
-  &lt;p class=&quot;text&quot;&gt;It was gorgeous out today! I went down to DC and walked around with Osebo.&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/ylwtZJd.jpg&quot;/&gt;
-  &lt;p class=&quot;caption&quot;&gt;Jamba Juice smoothies&lt;/p&gt;
-  &lt;img src=&quot;http://i.imgur.com/5uhlOt0.jpg&quot;/&gt;
-  &lt;p class=&quot;caption&quot;&gt;Majestic dog&lt;/p&gt;
-  &lt;p class=&quot;text&quot;&gt;Later we met up with Diego at his spot in Dupont and finalized everything we're including in tomorrow's deployment. Everything should be good to go on both web and mobile. I'm excited!&lt;/p&gt;
+  &lt;p class=&quot;text&quot;&gt;The contact section on my homepage served as a footer, but it didn't feel like a footer and it wasn't practical to use on every page of my site. I remade the contact section into a universal footer to achieve a consistent experience.&lt;/p&gt;
+  &lt;img src=&quot;http://i.imgur.com/8krRJqT.png&quot;/&gt;
+  &lt;p class=&quot;text&quot;&gt;It is mobile friendly as well with the text links transforming into icons at the 600px breakpoint.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 19 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/19/Day50.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/19/Day50.html</guid>
+        <pubDate>Mon, 06 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/06/Day65.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/06/Day65.html</guid>
         
         
         <category>jekyll</category>
